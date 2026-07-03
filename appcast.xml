@@ -8,7 +8,7 @@
             <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SAMUKANINJA/Nicho-releases/releases/download/1.0.2/Nicho-1.0.2.dmg" length="12152416" type="application/octet-stream" sparkle:edSignature="C2PT+9QQrP5U+YCT2l/ZnEcgYqyZBphgKdsjhuqEjEXIxfjelKa87QQ+dNdTYt/hGApByuox+dEMgnV8sinmBA==" length="12152416"/>
+            <enclosure url="https://github.com/SAMUKANINJA/Nicho-releases/releases/download/1.0.2/Nicho-1.0.2.dmg" length="12152416" type="application/octet-stream" sparkle:edSignature="C2PT+9QQrP5U+YCT2l/ZnEcgYqyZBphgKdsjhuqEjEXIxfjelKa87QQ+dNdTYt/hGApByuox+dEMgnV8sinmBA=="/>
         </item>
     </channel>
 </rss>
