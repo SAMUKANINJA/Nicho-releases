@@ -3,12 +3,12 @@
     <channel>
         <title>Nicho</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Fri, 03 Jul 2026 19:10:03 -0300</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Mon, 06 Jul 2026 23:40:11 -0300</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/SAMUKANINJA/Nicho-releases/releases/download/1.0.3/Nicho-1.0.3.dmg" type="application/octet-stream" sparkle:edSignature="xoydJcnLstpG3TV5nYkb9zXPs15f5jWxaO7jdBCzWaCsatlPTp14+bdjJueJbE1s8YGtVWyk8e6iY0u8OO3ODQ==" length="12118614"/>
+            <enclosure url="https://github.com/SAMUKANINJA/Nicho-releases/releases/download/1.0.4/Nicho-1.0.4.dmg" type="application/octet-stream" sparkle:edSignature="bq+bSUC4GRlaKeybmpcy8v6EMy6mU4NogZ3LBwGYTyOVvQN10pkInTp2Y+5Zq5vb0YknsTlBjEBAlzpHP6B7Dw==" length="12118595"/>
         </item>
     </channel>
 </rss>
